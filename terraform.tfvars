@@ -1,0 +1,5 @@
+resource_group_name = "myTerraformRG"
+location            = "eastus"
+vm_name             = "myWinVM"
+admin_username      = "azureuser"
+admin_password      = "P@ssword1234!"
